@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://ghost.hatchster.com",
-    "contentApiKey": "ed1bbbe626bd309fb810f99754"
+    "apiUrl": "https://marklewis.ghost.io",
+    "contentApiKey": "4803d584b47302ca1af64bcd51"
   },  
   "production": {
-    "apiUrl": "https://ghost.hatchster.com",
-    "contentApiKey": "ed1bbbe626bd309fb810f99754"
+    "apiUrl": "https://marklewis.ghost.io",
+    "contentApiKey": "4803d584b47302ca1af64bcd51"
   }
 }
